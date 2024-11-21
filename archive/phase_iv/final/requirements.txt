@@ -1,0 +1,8 @@
+numpy
+matplotlib
+fiona
+geojson
+shapely
+cartopy
+h5py
+descarteslabs
